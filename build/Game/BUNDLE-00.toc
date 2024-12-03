@@ -1,0 +1,3 @@
+([('Game',
+   '/Users/minen/PycharmProjects/FIT3077-IndividualAssignment/dist/Game',
+   'EXECUTABLE')],)
